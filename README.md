@@ -1,1 +1,1 @@
-# LGM_VIP-React-app
+# LGMVIP-web-Task4-ReactApp
